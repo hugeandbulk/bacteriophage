@@ -1,0 +1,11 @@
+What is ΦX174 sequencing?
+The ΦX174 bacteriophage was the very first organism to have the whole genome sequenced in 1977. Various research groups began sequencing DNA, with Fredrick Sanger and colleagues introducing the chain-termination process in 1977, resulting in a breakthrough.
+
+What is ΦX174 Ssdna?
+ΦX174 Virion DNA is the single-stranded viral DNA isolated from bacteriophage ΦX174 am3 cs70. It has a molecular weight of 1.70 x 106 daltons and is 5386 bases in length. Greater than 85% of the molecules are circular.
+
+What does the ΦX174 bacteriophage contain?
+This bacteriophage has a [+] sense circular single-stranded DNA genome of 5,386 nucleotides. The genome GC-content is 44% and 95% of nucleotides belong to coding genes. Because of the balance base pattern of the genome, it is used as the control DNA for Illumina sequencers.
+
+What is the bacteriophage known as ΦX174?
+ΦX174 is a small icosahedral, tailless bacteriophage with a maximum diameter of ∼320 Å. The capsid contains a 5.3-kb circular, single-stranded (ss) DNA genome that encodes four structural proteins: the capsid protein F, the spike protein G, the genome-associated protein J, and the DNA pilot protein H.
