@@ -10,3 +10,7 @@ _Bacteriophages, also known as phages, are viruses that infect and replicate onl
 Why is a bacteriophage a virus?
 
 _We have bacteria that live on us, and bacteria have bacterial viruses that live on them. These viruses are called bacteriophages (or phages). Viruses differ from bacteria in that they are not made of cells, but instead consist of a piece of DNA (or RNA) packed within a protein coat_.
+
+Why is bacteriophage used?
+
+_Phages, formally known as bacteriophages, are viruses that solely kill and selectively target bacteria. They are the most common biological entities in nature, and have been shown to effectively fight and destroy multi-drug resistant bacteria_.
