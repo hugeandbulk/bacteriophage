@@ -16,3 +16,11 @@ _We have bacteria that live on us, and bacteria have bacterial viruses that live
 Why is bacteriophage used?
 
 _Phages, formally known as bacteriophages, are viruses that solely kill and selectively target bacteria. They are the most common biological entities in nature, and have been shown to effectively fight and destroy multi-drug resistant bacteria_.
+
+What are the 2 types of bacteriophage?
+
+_There are two primary types of bacteriophages: lytic bacteriophages and temperate bacteriophages. Bacteriophages that replicate through the lytic life cycle are called lytic bacteriophages, and are so named because they lyse the host bacterium as a normal part of their life cycle_.
+
+
+
+
