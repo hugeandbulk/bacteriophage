@@ -21,6 +21,7 @@ What are the 2 types of bacteriophage?
 
 _There are two primary types of bacteriophages: lytic bacteriophages and temperate bacteriophages. Bacteriophages that replicate through the lytic life cycle are called lytic bacteriophages, and are so named because they lyse the host bacterium as a normal part of their life cycle_.
 
+What is the gene 3 protein of phage?
 
-
+_The gene-3-protein (G3P) of filamentous phage is essential for their propagation. It consists of three domains. The CT domain anchors G3P in the phage coat, the N2 domain binds to the F pilus of Escherichia coli and thus initiates infection, and the N1 domain continues by interacting with the TolA receptor_.
 
