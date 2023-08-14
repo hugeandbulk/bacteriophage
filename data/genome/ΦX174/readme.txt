@@ -50,3 +50,15 @@ A DNA sequence for the genome of bacteriophage phi X174 of approximately 5,375 n
 What is the size of bacteriophage Phi X174?
 
 The phi X174 particle was observed to be an icosahedral particle of 25 nm in diameter carrying a spike at each vertex. The spike was a pentagonal frustum with a base of 9 nm and a height of 6 nm.
+
+What is the genome of bacteriophage X174?
+
+PhiX174 belongs to the Microviridae family of bacteriophages (12). It is a small, icosahedral, nontailed virus with a circular single-stranded DNA. From its isolation in 1935 up to now, PhiX174 has been used in many landmark experiments because of its small genome size (5,386 nucleotides [nt]) and nonpathogenic status.
+
+Which bacteriophage has 5386 nucleotides?
+
+The complete sequence of bacteriophage S13 DNA has been determined. The molecule has 5386 nucleotides and differs from phi X174 by 87 transitions and 24 transversions. All the proteins, A,A*,B,C,D,E,F,G,H, J and K found in phi X174 are also present in S13.
+
+What is the structure of ΦX174?
+
+Bacteriophage ΦX174 is a small icosahedral virus that contains a single-stranded, closed circular DNA molecule with 5,386 nucleotide bases. Of the 11 gene products, four (J, F, G and H) participate in the structure of the virion.
