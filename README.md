@@ -5,6 +5,8 @@ bacteriophage genomics with Perl.
 
 **Declared:**
 
+_Bacteriophages are among the most common and diverse entities in the biosphere. Bacteriophages are ubiquitous viruses, found wherever bacteria exist. It is estimated there are more than 10<sup>31</sup> bacteriophages on the planet, more than every other organism on Earth, including bacteria, combined_.
+
 _A bacteriophage is a type of virus that infects bacteria. In fact, the word "bacteriophage" literally means "bacteria eater," because bacteriophages destroy their host cells. All bacteriophages are composed of a nucleic acid molecule that is surrounded by a protein structure_.
 
 _Bacteriophages, also known as phages, are viruses that infect and replicate only in bacterial cells. They are ubiquitous in the environment and are recognized as the most abundant biological agent on earth. They are extremely diverse in size, morphology, and genomic organization_.
